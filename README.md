@@ -1,1 +1,1 @@
-# QA_glovo
+# Quality Assurance of Glovo website
