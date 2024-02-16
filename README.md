@@ -14,7 +14,7 @@ Tools that have been used in this project are mostly TypeScript and JavaScript. 
 
 ## 3. Test Execution
 In this section there are test scenarios and test cases. Section has ten test cases for regression tests and one for smoke test.
-<b>Regression tests</b>
+<br><b>Regression tests</b>
 
 <b>3.1 Search Engine<br>
 
