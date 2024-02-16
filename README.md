@@ -95,4 +95,4 @@ In this section there are test scenarios and test cases. Section has ten test ca
 
 | Testing tools: | Total tests: | Passed tests: | Failed tests: |
 | --- | --- | --- | --- |
-| Automated testing software (Java, TypeScript) | 11 | 9 | 2 |
+| Automated testing software (JavaScript, TypeScript) | 11 | 9 | 2 |
