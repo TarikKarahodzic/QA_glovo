@@ -14,9 +14,10 @@ Tools that have been used in this project are mostly TypeScript and JavaScript. 
 
 ## 3. Test Execution
 In this section there are test scenarios and test cases. Section has ten test cases for regression tests and one for smoke test.
-<br><b>Regression tests</b><br>
+<b>Regression tests</b>
 
 <b>3.1 Search Engine<br>
+
 | Test Steps: | Test Data: | Expected Results: | Actual Results: | Status: |
 | --- | --- | --- | --- | --- |
 | 1. Go to the website glovoapp.com <br> 2. Navigate to 'Get Started' button <br> 3. Choose 'Email' login option <br> 4. Enter email <br> 5. Enter password <br> 6. Enter address <br> 7. Press on the search bar and type what you want to search <br> 8. Press on 'Show more' | - svvttest360@outlook.com <br> -svvttest123 <br> -Aleja Lipa 66, 71000 Sarajevo <br> -'pizza' | Load the website without any issues. Login to your account. Search opens a new page where it shows all the stores and products that have ‘pizza’ in their name or in their menu. Shows all of the options for specific search | Website is loaded without any issues. Search engine does actions correctly, it opened new window with pizzas. | PASS |
